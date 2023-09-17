@@ -1,0 +1,30 @@
+Fresh Air Wax,fresh_air_wax.jpg,Marshmallow with honey on a stick,10,50
+Giner BreadMan Cookie,ginerbread_man.jpg,Cookie on the shape of Ginerbread Man,10,20
+Swamp Rat Nuggets,swamp_rat_nuggets_and_donkeys_waffles.jpg,Nuggets made from rats with waffles on a stick,30,200
+Shrek Cake,shrek_swamp_cake.jpg,Cake on the shape of shrek showering in swamp,60,500
+Shrek Juice,shrek_juice.jpg,Juice made with water from the swamp that Shrek used to shower in(Extremely High Quality),20,40
+Swamp Lemonade,swamp_lemonade.jpg,Juice made with water from swamp with lemon on it,25,95
+Shrek Quesadillas,shrek_quesadilla.jpg,Quesadilla but with Shrek's touch,20,100
+Shrek Mac And Cheese,shrek_mac_and_cheese.jpg,Shrek themed mac and cheese,55,400
+Shrek Cheese Sandwiches,shrek_cheese_sandwich.jpg,Sandwiches made of cheese and Avocado,30,400
+Shrek Pizza,shrek_pizza.jpg,Pizza but with broccoli and cheese,60,300
+Coca Cola,coke.jpg,Coke in glass with iced cubes,5,150
+Sprite,sprite.jpg,Sprite in glass with iced cubes,5,140
+Dr Pepper,dr_pepper.jpg,Dr Pepper in glass with iced cubes,5,40
+Fanta,fanta.jpg,Fanta in glass with iced cubes,5,140
+Diet Coke,diet_coke.jpg,Diet Coke in glass with iced cubes,5,0
+Sweet Tea,sweet_tea.jpg,Sweet Tea in glass with iced cubes,10,100
+Hot Chocolate,hot_chocolate.jpg,Hot Chocolate in glass with  whipped light cream,15,350
+Strawberry Smoothie,strawberry.jpg,Our perfect recipe features the utmost balance between banana and strawberry,10,200
+Hot Tea,hot_tea.jpg,Hot Black Tea,5,10
+Milk Jug,milkjug.jpg,Our Milk Jug is a low fat milk and an excellent source of calcium and a good source of vitamin A&D,5,100
+BBQ Pizza,bbq_pizza.jpg,It’s loaded with diced chicken spicy barbecue sauce pepperoncini peppers onion and cilantro topped with Colby-Jack cheese,50,200
+Pepperoni Pizza,pepperoni_pizza.jpg,Pizza Pepperoni is the authentic Italian taste,40,500
+Meatzza,meatzza.jpg,A meat-crust pizza is ideal for those on a low carb or keto diet With a delicious meaty base and lots of cheesy goodness,55,400
+Veggie Pizza,veggie_pizza.jpg,This veggie pizza is made from crescent roll dough and a cream cheesy spread for an easy fresh take on a favorite packed with crunchy vegetables,40,150
+Margarita Pizza,margarita_pizza.jpg,Your everyday simple but delicious pizza,40,200
+Sausage Burrito,sausage_burrito.jpg,Sandwich loaded with fluffy scrambled egg pork sausage melty cheese green chiles and onion,20,310
+Chicken Nuggets,chicken_nuggets.jpg,Our juicy Chicken Nuggets are made with all white meat chicken and no artificial colors flavors or preservatives,15,170
+Double Burger,double_burger.jpg,Our delicious burger but double the size,35,500
+Fries,fries.JPG,The World famous French Fries but tastier,15,200
+Spicy Crispy Sandwich,spicy_sandwich.jpg,Our sandwich was made for those who like it crispy juicy tender and hot,30,400
