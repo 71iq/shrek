@@ -25,7 +25,7 @@ public class Register {
 		stage.setScene(scene);
 
 
-		Image image = new Image("file:/home/ihab/code/Ideaprojects/shrek/src/main/java/shrek/rest/shrek/image/shrek_background.png");
+		Image image = new Image("file:shrek/src/main/java/shrek/rest/shrek/image/shrek_background.png");
 		BackgroundImage a = new BackgroundImage(image, BackgroundRepeat.NO_REPEAT, BackgroundRepeat.NO_REPEAT, BackgroundPosition.DEFAULT, new BackgroundSize(1440, 720, false, false, true, true));
 
 		pane.setBackground(new Background(a));
@@ -38,7 +38,7 @@ public class Register {
 		backMain.setPrefWidth(100);
 		backMain.setOnAction(e -> SignIn.start(stage));
 
-		ImageView userImage = new ImageView("file:/home/ihab/code/Ideaprojects/shrek/src/main/java/shrek/rest/shrek/image/user_image.png");
+		ImageView userImage = new ImageView("file:shrek/src/main/java/shrek/rest/shrek/image/user_image.png");
 		setLayout(userImage, 325, 70);
 
 		TextField username = new TextField();

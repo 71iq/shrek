@@ -16,7 +16,7 @@ public class Specials {
 			VBox vbox = new VBox();
 			vbox.setAlignment(Pos.CENTER);
 
-			Image image = new Image("file:/home/ihab/code/Ideaprojects/shrek/src/main/java/shrek/rest/shrek/image/" + menu.get(i).getImageName());
+			Image image = new Image("file:shrek/src/main/java/shrek/rest/shrek/image/" + menu.get(i).getImageName());
 			ImageView iv = new ImageView(image);
 			String des = menu.get(i).getDescription();
 			iv.setFitWidth(300);

@@ -106,7 +106,7 @@ public class Cart {
 			Stage stage1 = new Stage();
 			BorderPane pane = new BorderPane();
 
-			Image image = new Image("file:/home/ihab/code/Ideaprojects/shrek/src/main/java/shrek/rest/shrek/image/shrek_dance.gif");
+			Image image = new Image("file:shrek/src/main/java/shrek/rest/shrek/image/shrek_dance.gif");
 			ImageView imageView = new ImageView(image);
 			imageView.setFitWidth(400);
 			imageView.setFitHeight(320);

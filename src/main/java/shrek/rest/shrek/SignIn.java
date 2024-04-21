@@ -20,7 +20,7 @@ public class SignIn {
 		title.setStyle("-fx-font: bold italic 66 cursive; -fx-font-family: 'Brush Script MT', cursive; -fx-text-fill: #B8DE10;");
 		setLayout(title, 10, 5);
 
-		Image image = new Image("file:/home/ihab/code/Ideaprojects/shrek/src/main/java/shrek/rest/shrek/image/shrek_background.png");
+		Image image = new Image("file:shrek/src/main/java/shrek/rest/shrek/image/shrek_background.png");
 		BackgroundImage a = new BackgroundImage(image, BackgroundRepeat.NO_REPEAT, BackgroundRepeat.NO_REPEAT, BackgroundPosition.DEFAULT, new BackgroundSize(1440, 720, false, false, true, true));
 
 		Button Login = new Button("Login");

@@ -60,7 +60,7 @@ public class Dishes {
 		buttons.setSpacing(10);
 		borderPane.setCenter(FastFood.getGridPane());
 		borderPane.setLeft(buttons);
-		Image i = new Image("file:/home/ihab/code/Ideaprojects/shrek/src/main/java/shrek/rest/shrek/image/shrek_background.png");
+		Image i = new Image("file:shrek/src/main/java/shrek/rest/shrek/image/shrek_background.png");
 		BackgroundImage a = new BackgroundImage(i, null,null, null, null);
 		borderPane.setBackground(new Background(a));
 
